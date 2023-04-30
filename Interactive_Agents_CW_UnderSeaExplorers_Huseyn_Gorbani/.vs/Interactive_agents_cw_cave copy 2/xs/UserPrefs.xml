@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{CC004382-E7F0-BE43-5242-577DE9DC81FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Agents/MermaidAI.cs">
+    <Files>
+      <File FileName="Assets/Agents/MermaidAI.cs" Line="9" Column="39" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interactive_agents_cw_cave copy 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Agents" expanded="True">
+                <Node name="MermaidAI.cs" selected="True" />
+              </Node>
+              <Node name="Generators" expanded="True" />
+              <Node name="NavMeshComponents" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="NPBehave" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="UnityMovementAI" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Units" expanded="True">
+                    <Node name="Movement" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea88c4db-b0b6-4446-8524-6c61a4a3281d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

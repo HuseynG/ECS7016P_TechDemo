@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{293CD491-249E-4A1F-1502-1D9D3C42BA28}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Generators/UnderwaterCaveGenerator.cs">
+    <Files>
+      <File FileName="Assets/Generators/MeshGenerator.cs" Line="167" Column="1" />
+      <File FileName="Assets/Generators/UnderwaterCaveGenerator.cs" Line="4" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interactive_agents_cw_cave" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Generators" expanded="True">
+                <Node name="UnderwaterCaveGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69b0a9b5-89b4-45a8-9abb-bf9ea9ea13a2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
